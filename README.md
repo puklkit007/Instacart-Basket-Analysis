@@ -54,10 +54,10 @@ Apriori algorithm is computationally expensive and python generator functions pr
 Access -
 
 
-1. EDA
+1. [EDA](https://github.com/puklkit007/Instacart-Basket-Analysis/blob/main/Instacart_EDA.ipynb)
 
-2. PCA and kmeans
+2. [PCA and kmeans](https://github.com/puklkit007/Instacart-Basket-Analysis/blob/main/Customer_Segmentation%20-%20Instacart.ipynb)
 
-3. Association Rule Mining - Generators
+3. [Association Rule Mining - Generators](https://github.com/puklkit007/Instacart-Basket-Analysis/blob/main/Association_rule_mining%20-%20Generators.ipynb)
 
-4. Customer Segments
+4. [Customer Segments](https://github.com/puklkit007/Instacart-Basket-Analysis/blob/main/Customer_Segments%20-%20v2%20-%203Clusters.txt)
